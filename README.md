@@ -23,7 +23,7 @@ Supports
 
 #### Add to layout
 ```xml
-<com.k2.zoomimageview.ZoomImageView
+<com.demo.zoomimageview.ZoomImageView
     android:id="@+id/iv"
     android:layout_width="match_parent"
     android:layout_height="match_parent"/>
